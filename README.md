@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="">
 <div>
-  
-  ##
